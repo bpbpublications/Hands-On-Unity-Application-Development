@@ -1,2 +1,2 @@
-# Hands-on Unity Application Development
- Hands-on Unity Application Development, by BPB Publications
+# Hands-On Unity Application Development
+ Hands-On Unity Application Development, by BPB Publications
